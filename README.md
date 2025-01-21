@@ -6,7 +6,7 @@ Conway's Game of Life simulation built in Pygame
 
 | Controls   | Description |
 | --------- | ------- |
-| Mouse CLick     | Add Cell|
+| Mouse Click     | Add Cell|
 | SPACEBAR | (Un)Pause|  
 | UP | Speed UP   |
 | DOWN | Slow DOWN|
